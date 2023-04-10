@@ -128,10 +128,6 @@ This Application has been developed to help the customer in processing their com
 <hr>
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
-- SHARMILA D
-- SEVVANTHI   
-- THATCHAYANI
-- SHOBANA
 
 
 <hr>
@@ -146,8 +142,7 @@ This Application has been developed to help the customer in processing their com
 ## 🔗 LINKS
 
 | TEAM MEMBERS | FOLDER LINK    |
-| ------------- | ------------- |
-| SHARMILA D  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-28539-1660113483/tree/main/Assignment/Team_Lead">CLICK HERE!  </a></button>                 
+| ------------- | ------------- |               
 
 <hr>
 
@@ -189,7 +184,7 @@ This Application has been developed to help the customer in processing their com
 
 ## GITHUB LINKS FOR PROJECT TEAMS
 
-[SHARMILA D](https://github.com/SHARMILAD-301) <br>
+
 
 
 <hr>
