@@ -22,7 +22,7 @@
 
   <p align="center">
     TECHNOLOGY : CLOUD APP DEVELOPMENT <br />
-    TEAM ID    : PNT2022TMID37544 <br />
+    TEAM ID    : hdgjfjv <br />
     BATCH NO   : B1-1M3E <br />  
   </p>
 </p>
@@ -128,10 +128,11 @@ This Application has been developed to help the customer in processing their com
 <hr>
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
-- RAJKIRAN S S
-- KAMALESUWARAN D   
-- SRIGOVINDH S
-- GURURAJAN M
+- SHARMILA D
+- SEVVANTHI   
+- THATCHAYANI
+- SHOBANA
+
 
 <hr>
 
@@ -146,10 +147,7 @@ This Application has been developed to help the customer in processing their com
 
 | TEAM MEMBERS | FOLDER LINK    |
 | ------------- | ------------- |
-| RAJKIRAN S S  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/Team_Lead">CLICK HERE!  </a></button>                 
-| KAMALESUWARAN D | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M1_Lead">CLICK HERE!  </a> </button> |
-| SRIGOVINDH S     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M2_Lead">CLICK HERE!  </a> </button> |
-| GURURAJAN M     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M3_Lead">CLICK HERE!  </a> </button> |
+| SHARMILA D  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-28539-1660113483/tree/main/Assignment/Team_Lead">CLICK HERE!  </a></button>                 
 
 <hr>
 
@@ -191,10 +189,8 @@ This Application has been developed to help the customer in processing their com
 
 ## GITHUB LINKS FOR PROJECT TEAMS
 
-[RAJKIRAN S S](https://github.com/ssrajkiran) <br>
-[GURURAJAN](https://github.com/gururajan321)  <br>
-[KAMALESUWARAN D](https://github.com/KAMALESUWARAN-D) <br>
-[SRIGOVINDH S](https://github.com/srigovindh)<br>
+[SHARMILA D](https://github.com/SHARMILAD-301) <br>
+
 
 <hr>
 📫 How to reach Us <a href = "mailto:ibmdemo6@yahoo.com">Connect with Email</a>
